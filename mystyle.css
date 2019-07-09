@@ -1,0 +1,32 @@
+
+#bob {
+  color : white
+}
+#joe {
+  color: white
+}
+#brb {
+  color: white
+}
+#sushi {
+  color: white
+}
+#link {
+  color: yellow
+}
+#link2 {
+  color: lightblue
+}
+#link3 {
+  color: lightgreen
+}
+#link4 {
+  color: lightpink
+}
+img {
+  height: 50%;
+  width: 50%
+}
+body {
+  background-image: url("https://image.freepik.com/free-photo/dim-sum-along-with-carrot-salad-served-small-steamer-basket-soya-sauce-bowl-with-chopsticks-black-background_23-2148123699.jpg");
+}
